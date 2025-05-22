@@ -13,7 +13,7 @@ A fully functional Airbnb clone built using the **MERN stack (without React)**, 
 - **MongoDB** – NoSQL database for storing users, listings, and reviews
 - **Express.js** – Backend server framework
 - **EJS** – Templating engine for server-side rendering
-- **Bootstrap** – Frontend responsive design (optimized for Windows)
+- **Bootstrap** – Frontend responsive design 
 - **Multer** – File upload middleware for handling listing images
 - **Cloudinary** – Cloud storage for uploaded images
 - **Joi** – Input validation for user data and form submissions
@@ -29,8 +29,6 @@ A fully functional Airbnb clone built using the **MERN stack (without React)**, 
 - ⭐ **Reviews** – Authenticated users can leave and manage reviews
 - 👤 **Users** – Signup, login, session handling, and authorization
 - 🗺️ **Maps** – Location-based rendering of listings using map integration
-- 📱 **Responsive (Windows only)** – Mobile responsiveness with Bootstrap (tuned for Windows environment)
-
 ---
 
 ## 🧱 Project Architecture
