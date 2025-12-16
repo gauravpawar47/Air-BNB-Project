@@ -50,13 +50,6 @@ airbnb-clone/
 └── package.json
 
 ````
-
----
-
-## 🚀 Live Demo
-
-🔗 [View Live on Render](https://air-bnb-project-uio3.onrender.com/listings)
-
 ---
 
 ## 📦 Installation (Local Development)
